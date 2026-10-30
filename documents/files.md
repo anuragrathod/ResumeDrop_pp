@@ -156,3 +156,6 @@ ResumeDrop/
 ### `tests/`
 - **What it does**: Contains **37 automated tests** covering file reading, Excel creation, security checks, and AI connections.
 - You can run all tests anytime by typing `pytest` in your terminal. All 37 tests pass with zero errors.
+
+
+done

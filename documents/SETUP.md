@@ -183,3 +183,6 @@ pytest
   ResumeDrop contains an automatic sliding-window rate limiter (enforcing <= 40 requests/minute) with exponential backoff. If you encounter rate limits, wait a few moments for the cooldown period to expire.
 - **Scanned or Image-only PDFs**:
   ResumeDrop specializes in digital text PDFs to remain lightweight (<250 MB). Scanned documents containing only raster images will be flagged as `empty` in the candidate audit log without crashing the batch.
+
+
+done
